@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 廣弘明集
+#+DATE: 2015-08-30 22:22:06.309495
+#+PROPERTY: JUAN 0
