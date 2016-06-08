@@ -1,5 +1,5 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-01 16:08
+#+DATE: 2016-06-08 14:24
 #+TITLE: 廣弘明集
 #+PROPERTY: CBETA_ID T52n2103
 #+PROPERTY: ID KR6r0138
