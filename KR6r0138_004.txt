@@ -4,8 +4,10 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
-¶
-捨事道法¶¶¶¶
+<pb:KR6r0138_SBCK_004-1a>
+廣&KR0042;明集卷第四¶¶
+　　　　　　　　　唐　釋　道　宣　撰¶
+　　叙梁武帝捨事道法¶¶¶¶
 梁高祖武皇帝年三十四登位在政四十九¶年雖億
 兆務殷而卷不釋手内經外典罔¶不厝懷皆為訓觧
 數千餘卷而儉約自節¶羅綺不緣寢處虚閒晝夜無
@@ -476,7 +478,7 @@
 <pb:KR6r0138_SBCK_004-22b>
 廣&KR0042;明集卷之四¶
 
-<pb:KR6r0138_SBCK_005-1a>
-廣&KR0042;明集卷第五¶¶
-　　　　　　　　　唐　釋　道　宣　撰¶
-　辨
+# SB1_0478-046.png
+# page missing
+# SB1_0478-047.png
+# page missing

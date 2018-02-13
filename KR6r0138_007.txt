@@ -4,7 +4,9 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
-¶¶¶¶¶
+<pb:KR6r0138_SBCK_007-1a>
+廣&KR0042;明集卷第七¶¶
+　　　　　　　　　唐　釋　道　宣　撰
 荀濟頴川人後居江左博涉衆書志¶調矯俗初與梁
 武帝布衣相知及帝登位仕¶不及之濟負氣曰㑹盾
 鼻上磨墨作檄耳¶帝深不平之梁州刺史隂子春左
@@ -513,3 +515,8 @@
 (¶八大地獄在於地下餘諸雜獄散/在山¶中海内而受苦也深可痛哉)
 <pb:KR6r0138_SBCK_007-24b>
 廣&KR0042;明集卷第七
+
+# SB1_0478-178.png
+# page missing
+# SB1_0478-179.png
+# page missing

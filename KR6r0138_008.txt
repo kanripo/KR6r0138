@@ -4,9 +4,8 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
-¶
-
 <pb:KR6r0138_SBCK_008-1a>
+# SB1_0479-002.png
 廣弘明集卷第八¶¶
 　　　　　　　　　唐　釋　道　宣　撰¶
 　　敘元¶魏太武廢佛法事¶¶¶
@@ -664,3 +663,8 @@
 &KR0252;茫該羅二諦儒宗硌硌總括九流信¶侅常談無得
 而稱者矣僕誠不敏謹承嘉¶誨¶
 廣弘明集卷第八
+
+# SB1_0479-062.png
+# page missing
+# SB1_0479-063.png
+# page missing

@@ -4,8 +4,10 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
-¶
-列代王臣滯惑解¶
+<pb:KR6r0138_SBCK_006-1a>
+廣&KR0042;明集卷第六¶¶
+　　　　　　　　　唐　釋　道　宣　撰¶
+　　叙列代王臣滯惑解¶
 有唐太史傅奕者本宗李老猜忌釋門潛圖¶芟剪用
 達其部武徳之始上書具述既非經¶國當時遂寢奕
 不勝其憤乃引古來王臣訕¶謗佛法者二十五人撰
@@ -426,6 +428,7 @@
 <pb:KR6r0138_SBCK_006-20b>
 廣&KR0042;朙集卷第六¶
 
-<pb:KR6r0138_SBCK_007-1a>
-廣&KR0042;明集卷第七¶¶
-　　　　　　　　　唐　釋　道　宣　撰
+# SB1_0478-128.png
+# page missing
+# SB1_0478-129.png
+# page missing

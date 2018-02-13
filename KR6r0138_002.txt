@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
-¶
-
 <pb:KR6r0138_SBCK_002-1a>
 廣弘明集卷第二¶¶
 　　　　　　　　　唐　釋　道　宣　撰¶
@@ -437,3 +435,8 @@
 之深也巳矣
 <pb:KR6r0138_SBCK_002-20b>
 廣弘明集卷第二
+
+# SB1_0477-126.png
+# page missing
+# SB1_0477-127.png
+# page missing

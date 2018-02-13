@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
-¶
-
 <pb:KR6r0138_SBCK_009-1a>
 廣弘明集卷第九¶¶
 　　　　　　　　　　唐　釋　道　宣　撰¶
@@ -705,3 +703,9 @@
 本止有二千四十卷餘者虚指未出將非鈆¶墨未僃
 致經本未成乎自餘孟浪紛綸無足¶更廣¶
 廣弘明集卷第九
+
+# SB1_0479-128.png
+# page missing
+# SB1_0479-129.png
+# page missing
+

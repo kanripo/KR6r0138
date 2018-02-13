@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
-¶
-
 <pb:KR6r0138_SBCK_003-1a>
 廣弘明集卷第三¶¶
 　　　　　　　　　唐　釋　道　宣　撰¶
@@ -438,7 +436,9 @@
 起於是¶矣¶
 廣弘明集卷第三¶
 
-<pb:KR6r0138_SBCK_004-1a>
-廣&KR0042;明集卷第四¶¶
-　　　　　　　　　唐　釋　道　宣　撰¶
-　　叙梁武帝
+# SB1_0477-168.png
+# page missing
+# SB1_0477-169.png
+# page missing
+# SB1_0477-170.png
+# page missing
