@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
-¶
-
 <pb:KR6r0138_SBCK_013-1a>
 廣弘明集卷第十三¶¶
 　　　　　　　　　唐　釋　道　宣　撰¶
@@ -878,7 +876,9 @@
 所&KR0011;矣¶
 廣弘明集卷之十三¶
 
-<pb:KR6r0138_SBCK_014-1a>
-廣&KR0042;明集卷第十四¶¶
-　　　　　　　　　唐　釋　道　宣　撰¶
-　　内徳¶論　
+# SB1_0480-196.png
+# page missing
+# SB1_0480-197.png
+# page missing
+# SB1_0480-198.png
+# page missing

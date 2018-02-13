@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 15
-<md:KR6r0138_T_015-0209a>¶<pb:KR6r0138_SBCK_015-46b>
-
 <pb:KR6r0138_SBCK_016-1a>
 廣弘明集卷第十六¶¶
 　　　　　　　　　唐　釋　道　宣　撰¶
@@ -340,3 +338,8 @@
 珮華¶長掩懋迹空傳式籍雲拱敢告祥緣
 <pb:KR6r0138_SBCK_016-16b>
 廣弘明集卷第十六
+
+# SB1_0482-034.png
+# page missing
+# SB1_0482-035.png
+# page missing

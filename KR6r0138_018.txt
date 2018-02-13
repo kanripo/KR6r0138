@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
-¶
-
 <pb:KR6r0138_SBCK_018-1a>
 廣弘明集卷第十八¶¶
 　　　　　　　　　唐　釋　道　宣　撰¶

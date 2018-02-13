@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
-¶
-
 <pb:KR6r0138_SBCK_011-1a>
 廣弘明集卷第十一¶¶
 　　　　　　　　　唐　釋　道　宣　撰¶
@@ -623,7 +621,7 @@
 毒草大海之中既有明珠亦饒羅刹喻崑嶽缺於片
 石鄧林損其一枝耳復何可怪之哉¶(廣弘明集/卷第十一)¶
 
-<pb:KR6r0138_SBCK_012-1a>
-廣弘明集卷之十二¶¶
-　　　　　　　　　唐　釋　道　宣　撰¶
-　　
+# SB1_0480-058.png
+# page missing
+# SB1_0480-059.png
+# page missing　　

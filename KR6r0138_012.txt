@@ -4,7 +4,9 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
-¶
+<pb:KR6r0138_SBCK_012-1a>
+廣弘明集卷之十二¶¶
+　　　　　　　　　唐　釋　道　宣　撰¶
 決對傅奕廢佛僧事(并表)¶釋明槩¶
 僧明槩言槩聞三皇綂天五帝御㝢道含弘¶而逺大
 德普覆而平均敷善教以訓民布慈¶心而育物逮乎
@@ -582,3 +584,8 @@
 往光明寺經坊所立抄演訖以其月二十一日進了
 <pb:KR6r0138_SBCK_012-27b>
 廣弘明集卷第十二
+
+# SB1_0480-114.png
+# page missing
+# SB1_0480-115.png
+# page missing

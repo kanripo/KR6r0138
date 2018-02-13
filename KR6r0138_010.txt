@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
-¶
-
 <pb:KR6r0138_SBCK_010-1a>
 廣弘明集卷第十¶¶
 　　　　　　　　　唐　釋　道　宣　撰¶
@@ -566,3 +564,8 @@
 場敬行善法王公已下並冝知委
 <pb:KR6r0138_SBCK_010-26b>
 廣弘明集卷第十
+
+# SB1_0479-182.png
+# page missing
+# SB1_0479-183.png
+# page missing
