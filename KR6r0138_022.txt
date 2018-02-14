@@ -4,7 +4,10 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 21
-¶¶¶¶¶¶¶¶¶¶
+<pb:KR6r0138_SBCK_022-1a>
+廣&KR0042;明集卷第二十二¶¶
+　　　　　　　　　唐　釋　道　宣　撰¶
+
 佛知不異衆生知義　沈約¶
 佛者覺也覺者知也凡夫之與佛地立善知¶惡未始
 不同也但佛地所知者得善之正路¶凡夫所知者失
@@ -797,7 +800,8 @@
 白
 <pb:KR6r0138_SBCK_022-37b>
 廣&KR0042;明集卷之二十二<md:KR6r0138_T_022-0262c>¶
-<pb:KR6r0138_SBCK_023-1a>
-廣&KR0042;明集卷之二十三¶¶
-　　　　　　　　　唐　釋　道　宣　撰¶
 　
+# SB1_0484-076.png
+# page missing
+# SB1_0484-077.png
+# page missing

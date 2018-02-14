@@ -781,7 +781,7 @@
 <pb:KR6r0138_SBCK_018-36b>
 廣弘明集卷第十八¶
 
-<pb:KR6r0138_SBCK_019-1a>
-廣&KR0042;明集卷第十九¶¶
-　　　　　　　　　唐　釋　道　宣　撰¶
-　　内
+# SB1_0482-166.png
+# page missing
+# SB1_0482-167.png
+# page missing

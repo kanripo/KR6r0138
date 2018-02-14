@@ -4,6 +4,9 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+<pb:KR6r0138_SBCK_021-1a>
+廣&KR0042;明集卷第二十一¶¶
+　　　　　　　　　唐　釋　道　宣　撰¶
 <md:KR6r0138_T_021-0247a>¶
 答雲法師請開講書　梁昭明太子
 綂¶覽近示知欲見令道義夫釋敎凝深至理淵<md:KR6r0138_T_021-0247b>¶粹一
@@ -435,7 +438,10 @@
 時賜沾及伏願珍重尋更¶下承曲奉恩誨用深銘荷
 映&KR0174;罪死罪¶
 廣&KR0042;明集卷第二十一<md:KR6r0138_T_021-0252c>¶
-<pb:KR6r0138_SBCK_022-1a>
-廣&KR0042;明集卷第二十二¶¶
-　　　　　　　　　唐　釋　道　宣　撰¶
-　　
+
+# SB1_0483-158.png
+# page missing
+# SB1_0483-159.png
+# page missing
+# SB1_0483-160.png
+# page missing
